@@ -763,15 +763,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":5,
+         "columns":6,
          "firstgid":3672,
          "image":"P:\/MathGuys\/rc3\/tiles_png\/mathguys\/kissen.png",
-         "imageheight":160,
-         "imagewidth":160,
+         "imageheight":192,
+         "imagewidth":192,
          "margin":0,
          "name":"kissen",
          "spacing":0,
-         "tilecount":25,
+         "tilecount":36,
          "tileheight":32,
          "tilewidth":32
         }],
