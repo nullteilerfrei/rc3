@@ -769,7 +769,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world://lobby/punchcard.json#start_math"
+                         "value":"world:\/\/lobby\/punchcard.json#start_math"
                         }],
                  "type":"EXIT"
                 }, 
