@@ -45,7 +45,7 @@
                  "value":"world:\/\/math\/mp3\/timbregirlelevator.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
@@ -60,10 +60,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/software.json#start_mathguys}"
+                 "value":"world:\/\/lobby\/punchcard.json#start_math"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
