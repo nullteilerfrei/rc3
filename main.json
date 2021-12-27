@@ -54,7 +54,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared_mathguys"
+                 "value":"shared-mathguys"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -64,7 +64,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"We all used to do math, now we drain the blood from newborns to further our eternal life."
+                 "value":"Hit SPACE to join! We talk about math and everything else."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -719,12 +719,6 @@
                 }, 
                 {
                  "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"START"
                 }, 
                 {
