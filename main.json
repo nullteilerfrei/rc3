@@ -885,6 +885,10 @@
         }],
  "tilewidth":32,
  "type":"map",
+ "mapName": "Temple of Hate",
+ "mapDescription": "With the fire from the fireworks up above me, With a gun for a lover and a shot for the pain at hand, You run for cover in the temple of love, You run for another but still the same, For the wind will blow my name across this land",
+ "mapLink": "https://visit.rc3.world/@/rc3_21/math/main.json",
+ "mapCopyright": "BSD 3-Clause",
  "version":"1.6",
  "width":30
 }
