@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/visit.rc3.world\/@\/rc3_21\/lobby\/punchcard.json#start_math"
+                 "value":"world:\/\/lobby\/punchcard.json#start_math"
                 }],
          "type":"tilelayer",
          "visible":true,
