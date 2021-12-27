@@ -83,7 +83,12 @@
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"shared_mathguys"
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"We all used to do math, now we drain the blood from newborns to further our eternal life."
                 }],
          "type":"tilelayer",
          "visible":true,
