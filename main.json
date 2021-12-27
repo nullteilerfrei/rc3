@@ -9,7 +9,7 @@
          "name":"collides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -27,7 +27,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -45,7 +45,7 @@
                  "value":"world:\/\/math\/mp3\/timbregirlelevator.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
                  "value":"mathguys"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -99,7 +99,7 @@
                  "value":"shared_mathguys"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -117,7 +117,7 @@
                  "value":"https:\/\/jitsi.rc3.world\/shared_mathguys"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -135,7 +135,7 @@
                  "value":"https:\/\/www.google.com\/search?q=puppy+pics&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjgt5uWt9XtAhUTnVwKHardA2IQ_AUoAXoECB8QAw&biw=1920&bih=976"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -147,7 +147,7 @@
          "name":"floorLayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -159,7 +159,7 @@
          "name":"carpets",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -171,7 +171,7 @@
          "name":"carptes2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -183,7 +183,7 @@
          "name":"carpets3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -195,7 +195,7 @@
          "name":"backwalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -207,7 +207,7 @@
          "name":"stairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -219,7 +219,7 @@
          "name":"behindFurnitureDeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -231,7 +231,7 @@
          "name":"deko0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -243,7 +243,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -255,7 +255,7 @@
          "name":"deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -267,7 +267,7 @@
          "name":"deko1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -275,11 +275,11 @@
         {
          "draworder":"topdown",
          "id":7,
-         "name":"floorLayer",
+         "name":"floorLayerObject",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -290,7 +290,7 @@
          "name":"frontwalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -302,7 +302,7 @@
          "name":"noetiges-schild",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
