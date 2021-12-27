@@ -20,12 +20,6 @@
          "id":8,
          "name":"start",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
@@ -749,12 +743,6 @@
                 }, 
                 {
                  "id":4,
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"SILENT"
                 }, 
                 {
@@ -771,12 +759,6 @@
                 }, 
                 {
                  "id":8,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/"
-                        }],
                  "type":"URL"
                 }],
          "tilewidth":32
